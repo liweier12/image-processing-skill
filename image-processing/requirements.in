@@ -1,4 +1,4 @@
-rembg[cpu]==2.0.77
+rembg[cpu]==2.0.81
 onnxruntime==1.27.0
 Pillow==12.3.0
 pytest==9.1.1
